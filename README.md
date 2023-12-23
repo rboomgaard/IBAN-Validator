@@ -18,3 +18,5 @@ The IBAN Validator is a Python-based tool designed to check the validity of Inte
 Enter IBAN, please: GB82WEST12345698765432
 The entered IBAN is valid. Thank you for using the IBAN Validator.
 ```
+
+_Do not forget to change the path to the .csv file for this script to work._
